@@ -1,0 +1,9 @@
+HOSPITALS,NUMBER,NAME,LOCATION,TYPE,LAT,LON
+Pims,0001=,Pakistan Institute of medical science,Sector G8/3 islamabad,Govt,33.70245,73.05343
+Polyclinic,0002,Policyclinic Hospital,Sector G/2 Islamabad,Govt,33.72129,73.08255
+Shifa,0003,Shifa International Hospital,Sector H8/4 Islamabad,Private,33.67548,73.06722
+Ali Medical,0004,Ali Medical,F8 Markaz,Private,33.71046,73.04181
+Kulsum International,0005,Kulsum International hospital, Block E G 6/2 Blue Area Islamabad,Private,33.71802,73.07284
+Medkays,0006,Medikay Cardiac Centre , Meharban colony Park road Islamabad,Private,33.65489,73.15637
+NIH,0007,National Institute of Health , Park Road Islamabad,Govt,33.68724, 73.13919
+QIH,0008,Quaid-e-Azam International hospital, Peshawar Rd  near Golra Morr  H-13 Islamabad,Private,33.62426, 72.97221

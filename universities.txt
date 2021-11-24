@@ -1,0 +1,8 @@
+UNIVERSITY,NUMBER,LOCATION,LAT,LON
+Quaid e Azam University,0001,Islamabad,33.74790817869019,73.13728683331806
+NUST University,0002, Scholars Ave H-12 Islamabad,33.643623444710975, 72.99297880150802
+Bahria University,0003,Shangrilla Rd E-8/1 Islamabad,33.7166184700855, 73.02919935064658
+National Defence University,0004,E-9/3 Islamabad,33.72140169321793, 73.02203248868162
+Air University Islamabad,0005,Service Road E-9 Islamabad,33.71397687447116, 73.02469323970308
+National University Of Modern Languages,0006,4 Khayaban-e-Johar H 9/4 Islamabad,33.66770008072218, 73.05170844875776
+COMSATS University Islamabad,0007,Park Rd Islamabad,33.65251901012185, 73.15659355899956

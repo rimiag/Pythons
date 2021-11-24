@@ -1,0 +1,10 @@
+Restaurants,Number,LOCATION,LAT,LON
+Darbar Restaurant,0001,Plot 17-B Rawal Plaza Mangla Rd G-9 Markaz Islamabad,33.68865566342141, 73.03416962320145
+Tandoori Restaurants,0002,Khursheed Market St30 and Street No 25 F10 Islamabad,33.68665597476049, 73.00618882081181
+Des Pardas Restaurants,0003, Saidpur village Islamabad,33.743647219053386, 73.06822646710953
+Tuscany Courtyard, 0004, No4 Kohsar market Street 10 Islamabad, 33.7354391733359, 73.07844031848384
+Pepes Piri ,0005,Block B Shop 8 Agha Khan Rd Islamabad, 33.72994291255631, 73.07777513069696
+American Steak House,0007,First Floor Super Market Block F School Rd Islamabad,33.73032659154079, 73.07647694162907
+KFC,0008,United Bakery Building 11 School Rd F-6 Markaz Islamabad,33.72931831519138, 73.0747710568208
+Savour Foods,0009,2 Jinnah Ave Block H G 7/2 Blue Area Islamabad,33.71342524433992, 73.0634628642424
+Habibi Restaurant,0010,F8 Markaz,33.71190806511652, 73.03877581406
